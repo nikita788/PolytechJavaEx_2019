@@ -1,2 +1,2 @@
 # PolytechJavaEx_2019
-Ready tasks for Java Course in St.Petersburg Polytechnic University.
+![alt text](https://eworld.pro/wp-content/uploads/2018/05/politeh-logo.jpg) 
