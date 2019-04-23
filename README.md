@@ -1,4 +1,3 @@
-# PolytechJavaEx_2019
 ![alt text](https://eworld.pro/wp-content/uploads/2018/05/politeh-logo.jpg) 
 Готовые работы по курсу Java 2 для 2 курса. Работы выполнялись автором самостоятельно в IntelliJ IDEA.
 # Задания
